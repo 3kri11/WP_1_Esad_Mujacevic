@@ -1,0 +1,26 @@
+.news-card {
+    display: inline-block;
+    width: 362px;
+    margin: 10px;
+    vertical-align: top;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    background: whitesmoke;
+
+  }
+
+  img {
+    width: 362px;
+    height: 250px;
+  }
+
+  p {
+    margin: 8px 0;
+
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    margin-bottom: 12px;
+  }
